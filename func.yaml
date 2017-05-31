@@ -1,0 +1,5 @@
+name: skwashd/iron-functions-vault-example
+version: 0.0.1
+runtime: ""
+path: /iron-functions-vault-example
+max_concurrency: 1
